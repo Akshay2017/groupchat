@@ -27,7 +27,6 @@ import com.google.firebase.database.ValueEventListener;
 
 public class Main2Activity extends AppCompatActivity {
     private DatabaseReference mData;
-    private FirebaseDatabase mF;
     private FirebaseAuth mAuth;
     private RecyclerView measagelist;
     private TextView name,email;
